@@ -1,0 +1,23 @@
+body{
+
+	font-family: 'Varela Round', sans-serif;
+	height:1000px;
+}
+.navbar{
+	vertical-align: middle;
+	font-size: 24px;
+	padding:50px;
+	color: #FF0000;
+	display:inline-block;
+}
+.justify{
+	text-align: center;
+}
+.fixed{
+	position:fixed;
+}
+
+li{
+	display:inline-block;
+	padding: 10px 50px 10px 50px
+}
